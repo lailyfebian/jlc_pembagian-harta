@@ -2371,9 +2371,9 @@ button,
         padding: 70px 0;
     }
 
-    .team-section-2-heading {
+    .team-section-2-heading p {
         margin-bottom: 45px;
-        font-size: 13px;
+        font-size: 13px !important;
     }
 
     .team-section-2-subtitle {
