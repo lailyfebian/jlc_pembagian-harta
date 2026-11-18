@@ -5054,7 +5054,7 @@ button,
 
     .jlc-faq-sidebar > h2 {
         margin-bottom: 10px;
-        font-size: 24px;
+        font-size: 24px !important;
     }
 
     .jlc-faq-sidebar > p {
