@@ -393,7 +393,7 @@ button,
 ============================== */
 
 .header-beranda {
-    background-image: url('public/images/background-biru-muda.png');
+    background-image: url('public/images/background-biru-muda.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
